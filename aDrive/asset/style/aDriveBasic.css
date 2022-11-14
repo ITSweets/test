@@ -1,0 +1,45 @@
+#aDriveWidget
+{
+    background-color: #CCC;
+}
+
+#aDriveLogo
+{
+    border: none;
+    border-image: url(:/image/logo.svg);
+}
+
+#aDriveClose
+{
+    border: none;
+    border-radius: 2px;
+    border-image: url(:/image/close.svg);
+}
+
+#aDriveClose:hover
+{
+    background-color: rgba(145, 141, 254, 255);
+}
+
+#aDriveMaximize
+{
+    border: none;
+    border-radius: 2px;
+    border-image: url(:/image/maximize.svg);
+}
+
+#aDriveMaximize:hover
+{
+    background-color: rgba(255, 127, 15, 255);
+}
+#aDriveMinimize
+{
+    border: none;
+    border-radius: 2px;
+    border-image: url(:/image/minimize.svg);
+}
+
+#aDriveMinimize:hover
+{
+    background-color: rgb(0, 194, 12);
+}
